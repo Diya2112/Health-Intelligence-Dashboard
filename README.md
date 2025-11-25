@@ -16,7 +16,7 @@ The primary objective of this project was to:
 
 The analysis is based on the **Healthcare Patient Records Dataset**.
 * **Source:** Kaggle
-* **Initial File:** `healthcare_dataset (1).csv`
+* **Initial File:** `healthcare_dataset.csv`
 * **Key Data Points:** Name, Age, Gender, Medical Condition, Insurance Provider, Billing Amount, Admission Type, and Test Results.
 
 ## 🛠️ Tools Used
@@ -78,8 +78,7 @@ This repository contains the following files to document the entire project:
 
 | File Name/Type | Description |
 | :--- | :--- |
-| `Intial_healthcare_dataset (1).csv` | The raw, initial HealthCare dataset collected. |
-| `Cleaned_healthcare_dataset.csv` | Cleaned and Processed HealthCare dataset.|
+| `healthcare_dataset.csv` | The raw, initial HealthCare dataset collected. |
 | `Project_healthcare_anudip.pbix` | The source file for the Power BI dashboard, including data models and reports. |
 | `Project_Report.pdf` | Detailed report covering the project's title, objective, dataset, tools, cleaning, and analysis. |
 | `README.md` | This file, providing a complete project summary, insights, and documentation. |
