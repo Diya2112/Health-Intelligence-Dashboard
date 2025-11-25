@@ -80,7 +80,6 @@ This repository contains the following files to document the entire project:
 | :--- | :--- |
 | `healthcare_dataset.csv` | The raw, initial HealthCare dataset collected. |
 | `Project_healthcare_anudip.pbix` | The source file for the Power BI dashboard, including data models and reports. |
-| `Project_Report.pdf` | Detailed report covering the project's title, objective, dataset, tools, cleaning, and analysis. |
 | `README.md` | This file, providing a complete project summary, insights, and documentation. |
 
 ### 7. Conclusion
