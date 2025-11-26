@@ -58,7 +58,7 @@ The interactive dashboard, created using **Power BI**, visualizes key performanc
 
 ### **Dashboard Final View**
 
-![Health Intelligence Dashboard Screenshot](health_intelligence_dashboard.jpg)
+![Health Intelligence Dashboard Screenshot](health_intelligence_dashboard_image.jpg)
 
 
 
